@@ -1,6 +1,9 @@
 # Description
 Digital Counter App done in Vanilla Javascript. Counter Resets when user refreshes page.
 
+![demo](https://media.giphy.com/media/kegllEaWmlBfjacmph/giphy.gif)
+
+
 # Technologies used
 HTML, CSS, BOOTSTRAP, Javascript
 
